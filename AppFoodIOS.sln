@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppFoodIOS", "AppFoodIOS.csproj", "{460ABD98-4076-4C32-BF15-80AC136AF3BF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{460ABD98-4076-4C32-BF15-80AC136AF3BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{460ABD98-4076-4C32-BF15-80AC136AF3BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{460ABD98-4076-4C32-BF15-80AC136AF3BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{460ABD98-4076-4C32-BF15-80AC136AF3BF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35DED4ED-6C24-47E6-A054-15B4AC9B75DA}
+	EndGlobalSection
+EndGlobal
